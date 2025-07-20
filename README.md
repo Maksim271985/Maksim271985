@@ -8,8 +8,7 @@
 
 *   🌍 Я живу в г.Альметьевск
 *   ✉️ Вы можете связаться со мной по адресу [27maks\_02@gmail.com](mailto:27maks_02@gmail.com), Telegram: https://t.me/Maksim_Nadezhdin
-*   Дополнительная информация по пройденным курсам: 
-<p align="left">https://cloud.mail.ru/public/w4N9/z3heMv2UM
+*   Дополнительная информация по пройденным курсам: <p align="left">https://cloud.mail.ru/public/w4N9/z3heMv2UM
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a>
                     </p>
                     
